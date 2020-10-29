@@ -1,0 +1,51 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ibrary/
+[Aa]pp/
+UWP/
+WindowsStoreApp/
+UnityGenerated/
+UnityPackageManager/
+project.json
+project.lock.json
+WSATestCertificate.pfx
+WSATestCertificate.pfx.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.csproj
+*.pidb
+*.suo
+/*.sln
+*.sln
+*.user
+*.unityproj
+*.ipch
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.idb
+*.opendb
+
+Assets/ThirdParty/
+Assets/ThirdParty.meta
+Screenshot/
+.vscode/
+.idea/
+Assets/Plugins/Editor/JetBrains/
+Assets/Plugins/Editor/JetBrains.meta
+Logs
+*.DS_Store
